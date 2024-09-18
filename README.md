@@ -1,5 +1,6 @@
-## Hi there 👋
+![image](https://files.catbox.moe/ywxjxb.png)
 
+this is a test hi livvy poo 
 <!--
 **kurtsworld96/kurtsworld96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
